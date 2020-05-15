@@ -1,0 +1,21 @@
+不自动播放    
+[dplayer url="http://xxx.com/xxx.mp4" pic="http://xxx.com/xxx.jpg"/]
+
+开启弹幕
+
+    [dplayer url="http://xxx.com/xxx.mp4" pic="http://xxx.com/xxx.jpg" danmu="true"/]
+
+
+开启自动播放
+
+
+    [dplayer url="http://xxx.com/xxx.mp4" pic="http://xxx.com/xxx.jpg" autoplay="true"/]
+ 
+**1. Pjax页面切换？**
+
+重新加载播放器回调函数
+
+
+    loadDPlayer();
+
+
